@@ -1,2 +1,3 @@
 hello git command
 test conflict
+#3 from #2
