@@ -1,4 +1,8 @@
 hello git command
 test conflict
+<<<<<<< HEAD
 burger
 #3 from #2
+=======
+#3 from #2
+>>>>>>> 198c1aebc694c4930ce8a4e888643954c4f7e122
